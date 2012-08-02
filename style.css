@@ -1,0 +1,19 @@
+html, body {text-align:center;font-family:Arial;color:#151414;font-size:100%;background:white;line-height:1.1;vertical-align:baseline;}
+ul {font-size:0.95em;list-style:none;}
+li {width:391px;margin:10px auto 20px auto;text-align:left;}
+p {font-size: 0.9em;width:400px;margin:10px auto 20px auto;}
+h1, h2 {font-weight:800;}
+h1 {font-size:2.0em;margin:20px 0 5px 0;}
+h2 {font-size:1.33em;margin:0;}
+h3 {margin: 30px auto 0 auto;}
+
+h3 {
+	width: 310px;
+	height: 157px;
+	
+	background-image: url(hello-world.png);
+	
+	text-indent: 100%;
+	overflow: hidden;
+	white-space: nowrap;
+}
